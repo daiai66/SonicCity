@@ -1,0 +1,74 @@
+{
+  "tokyo-shibuya-jr-announcement-freesound.mp3": {
+    "requested_item": "东京电车涩谷站进站报站声",
+    "status": "downloaded_candidate",
+    "source": "Freesound",
+    "source_url": "https://freesound.org/people/shojibeat9629/sounds/611457/",
+    "license": "Attribution NonCommercial 4.0",
+    "notes": "2021 field recording of an in-car announcement from JR Shibuya Station."
+  },
+  "hongkong-mtr-door-closing-freesound.mp3": {
+    "requested_item": "香港港铁关门声",
+    "status": "downloaded_candidate",
+    "source": "Freesound",
+    "source_url": "https://freesound.org/people/hkmtrhah/sounds/371934/",
+    "license": "Attribution 4.0",
+    "notes": "MTR door closing alert announcement used in 2007-2012, followed by seven beeps."
+  },
+  "singapore-mrt-multilingual-freesound.mp3": {
+    "requested_item": "新加坡 MRT 马来语报站音频",
+    "status": "downloaded_full_recording_candidate",
+    "source": "Freesound",
+    "source_url": "https://freesound.org/people/DrSpirograph/sounds/77053/",
+    "license": "Attribution 3.0",
+    "notes": "Long Singapore MRT recording tagged Malay, Mandarin, Tamil, English; suitable for further clipping."
+  },
+  "singapore-mrt-happy-happy-malay-awesomewave.m4a": {
+    "requested_item": "新加坡 MRT 马来语报站音频",
+    "status": "downloaded_short_reference_candidate",
+    "source": "Awesome Wave / DrSpirograph via Freesound",
+    "source_url": "https://awesomewave.net/happy-happy-on-the-singapore-mrt/",
+    "license": "Attribution to DrSpirograph/Freesound source",
+    "notes": "Short 'Berhati-hati di ruang platform' / common 'Happy Happy' misheard Malay clip."
+  },
+  "tokyo-train-door-closing-creazilla.flac": {
+    "requested_item": "东京电车关门时的音乐",
+    "status": "downloaded_candidate",
+    "source": "Creazilla, sourced from Freesound",
+    "source_url": "https://creazilla.com/media/audio/15432666/train-door-closing-tokyo",
+    "license": "Royalty-free page; verify original Freesound license before public deployment",
+    "notes": "Inside-train Tokyo door closing recording."
+  },
+  "taipei-familymart-entry-sound": {
+    "requested_item": "台北全家便利店进店声",
+    "status": "downloaded_personal_use_and_highlighted",
+    "source": "Zedge ringtone / FamilyMart Chime",
+    "source_url": "https://www.zedge.net/ringtones/1017472d-9ace-3635-b03b-5e461dc4f5d8",
+    "license": "Personal/local use requested by user; verify rights before public/commercial deployment",
+    "notes": "Downloaded as personal/familymart-chime-zedge.mp3 and exported highlights/taipei-familymart-entry-chime.mp3."
+  },
+  "tokyo-donki-store-song": {
+    "requested_item": "东京 Donki 店广播音乐声",
+    "status": "downloaded_personal_use_and_highlighted",
+    "source": "Zedge ringtone / Don Quijote Japan Song",
+    "source_url": "https://www.zedge.net/ringtones/e7d9ad60-fe64-4edf-abb0-defc5f9b99f1",
+    "license": "Personal/local use requested by user; verify rights before public/commercial deployment",
+    "notes": "Downloaded as personal/donki-theme-zedge.mp3 and exported highlights/tokyo-donki-miracle-shopping.mp3."
+  },
+  "seoul-dongdaemun-arrival-announcement": {
+    "requested_item": "首尔东大门进站报站声",
+    "status": "downloaded_personal_use_and_highlighted",
+    "source": "Tistory post with downloadable Korail TTS Dongdaemun announcement",
+    "source_url": "https://lotty1.tistory.com/1169",
+    "license": "Personal/local use requested by user; verify rights before public/commercial deployment",
+    "notes": "Downloaded as personal/seoul-dongdaemun-korail-tts-tistory.mp3 and exported highlights/seoul-dongdaemun-arrival-announcement.mp3."
+  },
+  "taipei-red-line-entering-music": {
+    "requested_item": "台北红线列车进站音乐",
+    "status": "downloaded_recreation_and_highlighted",
+    "source": "Taipei MRT Tamsui-Xinyi Line station melody recreation",
+    "source_url": "https://note.com/parlejaponais/n/n0c0071eb5f7b",
+    "license": "Creator-provided download; verify before public/commercial deployment",
+    "notes": "Downloaded the attachment as candidates/taipei-red-line-tamsui-xinyi-note.mp3 and exported highlights/taipei-red-line-arrival-melody.mp3."
+  }
+}

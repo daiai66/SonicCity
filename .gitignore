@@ -1,0 +1,27 @@
+# Temporary browser/runtime output
+.tmp-chrome-*/
+.chrome-csm-mapshot/
+tmp-chrome-profile/
+.tmp-ffmpeg/
+
+# Intermediate screenshots and verification captures generated during development
+*.png
+!assets/**/*.png
+
+# Backups and alternate drafts
+SonicCity.broken-*.html
+SonicCity_2.html
+LivePulse_Globe.html
+
+# Unrelated local experiment files
+emotion-forensics-server.mjs
+life_candidates.txt
+package.json
+
+# Local source/backup audio not referenced directly by the final page
+7-11.mp3
+全家.mp3
+修炼爱情.mp3
+睡公主.mp3
+赌场.mp3
+ytmp3free.cc_family-mart-jingle-across-from-taipei-station-youtubemp3free.org.mp3

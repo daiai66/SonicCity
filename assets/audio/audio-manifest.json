@@ -1,0 +1,368 @@
+{
+  "beijing-subway.ogg": {
+    "city": "Beijing",
+    "type": "real downloaded audio",
+    "source": "Wikimedia Commons",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Beijing_Subway_Line_4_train_announcement_from_EGPKU_to_Zhongguancun_20200323.ogg",
+    "license": "CC0 1.0"
+  },
+  "hongkong-mtr-real.mp3": {
+    "city": "Hong Kong",
+    "type": "real downloaded preview audio",
+    "source": "Freesound",
+    "file_page": "https://freesound.org/people/robertjd/sounds/81466/",
+    "license": "Creative Commons license listed on source page"
+  },
+  "singapore-mrt-real.mp3": {
+    "city": "Singapore",
+    "type": "real downloaded preview audio",
+    "source": "Freesound",
+    "file_page": "https://freesound.org/people/DrSpirograph/sounds/77053/",
+    "license": "Creative Commons license listed on source page"
+  },
+  "taipei-mrt.ogg": {
+    "city": "Taipei",
+    "type": "real downloaded audio",
+    "source": "Wikimedia Commons",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E6%8D%B7%E9%81%8B-%E8%BB%8A%E7%AB%99%E8%88%87%E5%88%97%E8%BB%8A%E7%9A%84%E5%BB%A3%E6%92%AD.ogg",
+    "license": "CC BY-SA 4.0 / GFDL"
+  },
+  "tokyo-metro-real.mp3": {
+    "city": "Tokyo",
+    "type": "real downloaded preview audio",
+    "source": "Freesound / indexed by Pixabay and Taiwan Ministry of Education resource page",
+    "file_page": "https://freesound.org/people/macdaddyno1/sounds/320071/",
+    "license": "CC0 1.0"
+  },
+  "seoul-metro-real.mp3": {
+    "city": "Seoul",
+    "type": "real downloaded preview audio",
+    "source": "Freesound",
+    "file_page": "https://freesound.org/people/kasparbossers/sounds/855256/",
+    "license": "CC BY 4.0"
+  },
+  "london-mind-gap-real.mp3": {
+    "city": "London",
+    "type": "real downloaded preview audio",
+    "source": "Freesound",
+    "file_page": "https://freesound.org/people/kwahmah_02/sounds/327942/",
+    "license": "CC BY 3.0"
+  },
+  "newyork-mta-real.mp3": {
+    "city": "New York",
+    "type": "real downloaded preview audio",
+    "source": "Freesound",
+    "file_page": "https://freesound.org/people/Trashcan_Studios/sounds/616934/",
+    "license": "CC BY 4.0"
+  },
+  "clips/beijing-subway-local.mp3": {
+    "city": "Beijing",
+    "type": "edited local-language clip",
+    "source_file": "beijing-subway.ogg",
+    "edit": "kept likely Mandarin announcement segment, noise-reduced"
+  },
+  "clips/hongkong-mtr-local.mp3": {
+    "city": "Hong Kong",
+    "type": "edited local-language clip",
+    "source_file": "hongkong-mtr-real.mp3",
+    "edit": "kept likely Cantonese/local announcement segment, noise-reduced"
+  },
+  "clips/taipei-mrt-local.mp3": {
+    "city": "Taipei",
+    "type": "edited local-language clip",
+    "source_file": "taipei-mrt.ogg",
+    "edit": "kept Mandarin announcement segment, noise-reduced"
+  },
+  "clips/london-mind-gap-local.mp3": {
+    "city": "London",
+    "type": "edited local-language clip",
+    "source_file": "london-mind-gap-real.mp3",
+    "edit": "kept English Mind the Gap announcement, trimmed edges"
+  },
+  "clips/tokyo-metro-local.mp3": {
+    "city": "Tokyo",
+    "type": "edited local-language clip",
+    "source_file": "tokyo-metro-real.mp3",
+    "edit": "kept likely Japanese announcement segment, noise-reduced"
+  },
+  "highlights/tokyo-shibuya-station-announcement.mp3": {
+    "city": "Tokyo",
+    "type": "5-12 second highlight clip",
+    "source_file": "candidates/tokyo-shibuya-jr-announcement-freesound.mp3",
+    "source": "Freesound / shojibeat9629",
+    "license": "CC BY-NC 4.0",
+    "edit": "trimmed to Shibuya station announcement highlight, noise-reduced and normalized"
+  },
+  "highlights/hongkong-mtr-door-closing.mp3": {
+    "city": "Hong Kong",
+    "type": "5-12 second highlight clip",
+    "source_file": "candidates/hongkong-mtr-door-closing-freesound.mp3",
+    "source": "Freesound / hkmtrhah",
+    "license": "CC BY 4.0",
+    "edit": "trimmed to door closing alert and beep sequence, noise-reduced and normalized"
+  },
+  "highlights/singapore-mrt-malay-platform-gap.mp3": {
+    "city": "Singapore",
+    "type": "5-12 second highlight clip",
+    "source_file": "candidates/singapore-mrt-happy-happy-malay-awesomewave.m4a",
+    "source": "Awesome Wave / DrSpirograph via Freesound",
+    "license": "CC BY source attribution",
+    "edit": "trimmed to Malay platform-gap announcement highlight and normalized"
+  },
+  "highlights/tokyo-train-door-closing.mp3": {
+    "city": "Tokyo",
+    "type": "5-12 second highlight clip",
+    "source_file": "candidates/tokyo-train-door-closing-creazilla.flac",
+    "source": "Creazilla / Freesound source",
+    "license": "Royalty-free page; verify original Freesound license before public deployment",
+    "edit": "trimmed to train door closing highlight, noise-reduced and normalized"
+  },
+  "highlights/taipei-red-line-arrival-melody.mp3": {
+    "city": "Taipei",
+    "type": "5-12 second highlight clip",
+    "source_file": "candidates/taipei-red-line-tamsui-xinyi-note.mp3",
+    "source": "note.com / Parlejaponais",
+    "license": "creator-provided download; verify before public/commercial deployment",
+    "edit": "trimmed Tamsui-Xinyi line melody recreation to a short highlight and normalized"
+  },
+  "highlights/taipei-familymart-entry-chime.mp3": {
+    "city": "Taipei",
+    "type": "personal-use 5-12 second highlight clip",
+    "source_file": "personal/familymart-chime-zedge.mp3",
+    "source": "Zedge ringtone page",
+    "file_page": "https://www.zedge.net/ringtones/1017472d-9ace-3635-b03b-5e461dc4f5d8",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed and normalized FamilyMart entry chime"
+  },
+  "highlights/tokyo-donki-miracle-shopping.mp3": {
+    "city": "Tokyo",
+    "type": "personal-use 5-12 second highlight clip",
+    "source_file": "personal/donki-theme-zedge.mp3",
+    "source": "Zedge ringtone page",
+    "file_page": "https://www.zedge.net/ringtones/e7d9ad60-fe64-4edf-abb0-defc5f9b99f1",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed and normalized Don Quijote / Miracle Shopping ringtone segment"
+  },
+  "highlights/seoul-dongdaemun-arrival-announcement.mp3": {
+    "city": "Seoul",
+    "type": "personal-use 5-12 second highlight clip",
+    "source_file": "personal/seoul-dongdaemun-korail-tts-tistory.mp3",
+    "source": "Tistory / Korail TTS Dongdaemun reference",
+    "file_page": "https://lotty1.tistory.com/1169",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed and normalized Dongdaemun arrival announcement"
+  },
+  "highlights/ambient-tokyo-shibuya-footsteps.mp3": {
+    "city": "Tokyo",
+    "type": "ambient white-noise highlight clip",
+    "source_file": "ambient-sources/tokyo-shibuya-crossing-freesound.mp3",
+    "source": "Freesound / daniele-salvati",
+    "file_page": "https://freesound.org/people/daniele-salvati/sounds/79670/",
+    "license": "CC BY-NC 4.0",
+    "edit": "trimmed Shibuya crossing ambience to an 11-second city white-noise clip"
+  },
+  "highlights/ambient-singapore-rain.mp3": {
+    "city": "Singapore",
+    "type": "ambient white-noise highlight clip",
+    "source_file": "ambient-sources/singapore-admiralty-park-rain-freesound.mp3",
+    "source": "Freesound / madamdata",
+    "file_page": "https://freesound.org/people/madamdata/sounds/719747/",
+    "license": "CC0",
+    "edit": "trimmed Admiralty Park rain ambience to an 11.5-second white-noise clip"
+  },
+  "highlights/ambient-beijing-wind.mp3": {
+    "city": "Beijing",
+    "type": "ambient white-noise highlight clip",
+    "source_file": "ambient-sources/beijing-bullet-train-wind-resistance-freesound.mp3",
+    "source": "Freesound / taurindb",
+    "file_page": "https://freesound.org/people/taurindb/sounds/135995/",
+    "license": "CC BY 4.0",
+    "edit": "trimmed Beijing high-speed wind-resistance recording to an 11-second wind-like ambience"
+  },
+  "highlights/ambient-new-york-traffic.mp3": {
+    "city": "New York",
+    "type": "ambient white-noise highlight clip",
+    "source_file": "ambient-sources/new-york-canal-street-traffic-freesound.mp3",
+    "source": "Freesound / G_M_D_THREE",
+    "file_page": "https://freesound.org/people/G_M_D_THREE/sounds/424404/",
+    "license": "CC0",
+    "edit": "trimmed Canal Street traffic ambience to an 11-second white-noise clip"
+  },
+  "highlights/ambient-taipei-typhoon-rain.mp3": {
+    "city": "Taipei",
+    "type": "ambient white-noise highlight clip",
+    "source_file": "ambient-sources/taipei-typhoon-rain-freesound.mp3",
+    "source": "Freesound / calebjay",
+    "file_page": "https://freesound.org/people/calebjay/sounds/656506/",
+    "license": "CC0",
+    "edit": "trimmed Xinyi District typhoon rain to an 11-second white-noise clip"
+  },
+  "highlights/ambient-seoul-street.mp3": {
+    "city": "Seoul",
+    "type": "ambient white-noise highlight clip",
+    "source_file": "ambient-sources/seoul-street-walking-freesound.mp3",
+    "source": "Freesound / 3bagbrew",
+    "file_page": "https://freesound.org/people/3bagbrew/sounds/345025/",
+    "license": "CC0",
+    "edit": "trimmed Jongno-gu street walking recording to an 11-second city ambience"
+  },
+  "highlights/ambient-london-rain-umbrella.mp3": {
+    "city": "London",
+    "type": "ambient white-noise highlight clip",
+    "source_file": "ambient-sources/london-rain-umbrella-freesound.mp3",
+    "source": "Freesound / ESKVY",
+    "file_page": "https://freesound.org/people/ESKVY/sounds/833345/",
+    "license": "CC BY 4.0",
+    "edit": "trimmed London umbrella rain to a 10.5-second white-noise clip"
+  },
+  "street-sources/taipei-wanhua-night-market-freesound.mp3": {
+    "city": "Taipei",
+    "type": "street food zone source audio",
+    "source": "Freesound / GaryBard",
+    "file_page": "https://freesound.org/people/GaryBard/sounds/66599/",
+    "license": "CC BY 4.0",
+    "note": "Chinese Lunar New Year, Guangzhou Street Night Market near Lungshan Temple, Wanhua District, Taipei; includes hawkers and shoppers."
+  },
+  "street-sources/hongkong-restaurant-dishes-cantonese-freesound.mp3": {
+    "city": "Hong Kong",
+    "type": "street food zone source audio",
+    "source": "Freesound / ho52nest",
+    "file_page": "https://freesound.org/people/ho52nest/sounds/586146/",
+    "license": "CC0 1.0",
+    "note": "Recorded in Hong Kong; Cantonese, crowd, dishes, plates, restaurant ambience."
+  },
+  "street-sources/beijing-hutong-beer-chat-freesound.mp3": {
+    "city": "Beijing",
+    "type": "street food zone source audio",
+    "source": "Freesound / Lenguaverde",
+    "file_page": "https://freesound.org/people/Lenguaverde/sounds/387842/",
+    "license": "CC BY 4.0",
+    "note": "Hutong Mandarin conversation recording; original is 9.2 seconds, padded lightly to form a 12-second local highlight."
+  },
+  "street-sources/singapore-food-court-freesound.mp3": {
+    "city": "Singapore",
+    "type": "street food zone source audio",
+    "source": "Freesound / djuvray",
+    "file_page": "https://freesound.org/people/djuvray/sounds/432341/",
+    "license": "CC0 1.0",
+    "note": "Singapore food court ambience with people at lunch."
+  },
+  "street-sources/hongkong-wanchai-street-market-freesound.mp3": {
+    "city": "Hong Kong",
+    "type": "street food zone source audio",
+    "source": "Freesound / polymorpheva",
+    "file_page": "https://freesound.org/people/polymorpheva/sounds/91392/",
+    "license": "CC0 1.0",
+    "note": "Street food market in Wan Chai, Hong Kong; Cantonese street-market recording."
+  },
+  "street-sources/seoul-namdaemun-market-outside-freesound.mp3": {
+    "city": "Seoul",
+    "type": "street food zone source audio",
+    "source": "Freesound / kasparbossers",
+    "file_page": "https://freesound.org/people/kasparbossers/sounds/855254/",
+    "license": "CC BY 4.0",
+    "note": "Exterior of Namdaemun Market, Seoul; general market ambience."
+  },
+  "highlights/street-taipei-night-market-vendors.mp3": {
+    "city": "Taipei",
+    "type": "12-second street food zone highlight clip",
+    "source_file": "street-sources/taipei-wanhua-night-market-freesound.mp3",
+    "source": "Freesound / GaryBard",
+    "file_page": "https://freesound.org/people/GaryBard/sounds/66599/",
+    "license": "CC BY 4.0",
+    "edit": "trimmed from the hawker/night-market section, normalized, high/low pass filtered, short fades added"
+  },
+  "highlights/street-hongkong-cha-chaan-teng-dishes.mp3": {
+    "city": "Hong Kong",
+    "type": "12-second street food zone highlight clip",
+    "source_file": "street-sources/hongkong-restaurant-dishes-cantonese-freesound.mp3",
+    "source": "Freesound / ho52nest",
+    "file_page": "https://freesound.org/people/ho52nest/sounds/586146/",
+    "license": "CC0 1.0",
+    "edit": "trimmed to restaurant crowd/dish ambience, normalized, high/low pass filtered, short fades added"
+  },
+  "highlights/street-beijing-hutong-chat.mp3": {
+    "city": "Beijing",
+    "type": "12-second street food zone highlight clip",
+    "source_file": "street-sources/beijing-hutong-beer-chat-freesound.mp3",
+    "source": "Freesound / Lenguaverde",
+    "file_page": "https://freesound.org/people/Lenguaverde/sounds/387842/",
+    "license": "CC BY 4.0",
+    "edit": "kept full hutong Mandarin conversation, lightly padded to 12 seconds, normalized, high/low pass filtered, short fades added"
+  },
+  "highlights/street-singapore-hawker-centre.mp3": {
+    "city": "Singapore",
+    "type": "12-second street food zone highlight clip",
+    "source_file": "street-sources/singapore-food-court-freesound.mp3",
+    "source": "Freesound / djuvray",
+    "file_page": "https://freesound.org/people/djuvray/sounds/432341/",
+    "license": "CC0 1.0",
+    "edit": "trimmed to food-court lunch ambience, normalized, high/low pass filtered, short fades added"
+  },
+  "highlights/street-hongkong-cantonese-market.mp3": {
+    "city": "Hong Kong",
+    "type": "12-second street food zone highlight clip",
+    "source_file": "street-sources/hongkong-wanchai-street-market-freesound.mp3",
+    "source": "Freesound / polymorpheva",
+    "file_page": "https://freesound.org/people/polymorpheva/sounds/91392/",
+    "license": "CC0 1.0",
+    "edit": "trimmed to Wan Chai street-market ambience, normalized, high/low pass filtered, short fades added"
+  },
+  "highlights/street-seoul-night-market-crowd.mp3": {
+    "city": "Seoul",
+    "type": "12-second street food zone highlight clip",
+    "source_file": "street-sources/seoul-namdaemun-market-outside-freesound.mp3",
+    "source": "Freesound / kasparbossers",
+    "file_page": "https://freesound.org/people/kasparbossers/sounds/855254/",
+    "license": "CC BY 4.0",
+    "edit": "trimmed to Namdaemun exterior market ambience, normalized, high/low pass filtered, short fades added"
+  },
+  "licensed-pop-highlights/pop-singapore-jjlin-1000-years.mp3": {
+    "city": "Singapore",
+    "type": "15-second licensed/local pop chorus highlight",
+    "source_file": "C:\\Users\\lenovo\\Music\\JJLin - 一千年以后 JJ20 Final Lap旧金山_L.ogg",
+    "source": "local user-provided Music folder file",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed 15-second clip starting at the chorus lyric entry around 211.8s, normalized and faded"
+  },
+  "licensed-pop-highlights/pop-hongkong-gem-sleeping-princess.mp3": {
+    "city": "Hong Kong",
+    "type": "15-second licensed/local pop chorus highlight",
+    "source_file": "C:\\Users\\lenovo\\Music\\G_E_M_ 邓紫棋 - 睡公主 (Live).flac",
+    "source": "local user-provided Music folder file",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed 15-second clip starting at the chorus lyric entry around 259.5s, normalized and faded"
+  },
+  "licensed-pop-highlights/pop-london-dua-lipa-levitating.mp3": {
+    "city": "London",
+    "type": "12-second licensed/local pop chorus highlight",
+    "source_file": "C:\\Users\\lenovo\\Music\\Dua Lipa - Levitating (Live From Mexico).flac",
+    "source": "local user-provided Music folder file",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed 12-second chorus window starting at 68s, normalized and faded"
+  },
+  "licensed-pop-highlights/pop-newyork-welcome-to-new-york.mp3": {
+    "city": "New York",
+    "type": "15-second licensed/local pop chorus highlight",
+    "source_file": "C:\\Users\\lenovo\\Music\\Taylor Swift - Welcome To New York (Complete version originally performed by Taylor Swift)_L.ogg",
+    "source": "local user-provided Music folder file",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed 15-second clip starting at the title chorus lyric entry around 42.0s, normalized and faded"
+  },
+  "licensed-pop-highlights/pop-beijing-mayday-anywhere-door-live.mp3": {
+    "city": "Beijing",
+    "type": "12-second licensed/local pop chorus highlight",
+    "source_file": "C:\\Users\\lenovo\\Music\\五月天 - 任意门 (2026 [ 5525+2 回到那一天 ]25周年巡回演唱会北京站现场)_L.ogg",
+    "source": "local user-provided Music folder file",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed 12-second chorus/live singalong window starting at 152s, normalized and faded"
+  },
+  "licensed-pop-highlights/pop-seoul-next-level-live.mp3": {
+    "city": "Seoul",
+    "type": "12-second licensed/local pop chorus highlight",
+    "source_file": "C:\\Users\\lenovo\\Music\\刘宇 - Next Level (Live).flac",
+    "source": "local user-provided Music folder file",
+    "license": "personal/local use requested by user; verify rights before public/commercial deployment",
+    "edit": "trimmed 12-second stage chorus window starting at 68s, normalized and faded"
+  }
+}
