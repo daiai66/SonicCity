@@ -18,6 +18,9 @@ emotion-forensics-server.mjs
 life_candidates.txt
 package.json
 
+# Local API keys, never commit this file
+apikey.local.js
+
 # Local source/backup audio not referenced directly by the final page
 7-11.mp3
 全家.mp3
